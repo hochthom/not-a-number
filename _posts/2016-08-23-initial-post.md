@@ -15,7 +15,7 @@ But there is also a deeper meaning of it. In recent years companies want to put 
 in order to easily categorize us for optimization of their business. If you want to make a statement 
 against this activities here is the right T-Shirt for you:
 
-![NaN Image]({{ site.url }}/images/not-a-number-maenner-t-shirt.JPG)
+![NaN Image]({{ site.url }}/images/not-a-number-maenner-t-shirt.jpg)
 
 You can order this T-Shirt from
 [tsnuk.me](http://www.tsnuk.me/thomas).
