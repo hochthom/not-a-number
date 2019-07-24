@@ -17,6 +17,3 @@ against this activities here is the right T-Shirt for you:
 
 ![NaN Image]({{ site.url }}/images/not-a-number-maenner-t-shirt_1.jpg)
 ![NaN Image]({{ site.url }}/images/not-a-number-maenner-t-shirt_2.jpg)
-
-You can order this T-Shirt from
-[tsnuk.me](http://www.tsnuk.me/thomas).
